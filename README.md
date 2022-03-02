@@ -1,0 +1,2 @@
+# eduso_project
+Education_of_Git_usage
