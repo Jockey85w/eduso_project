@@ -1,0 +1,1 @@
+Ezt egy új branch-ben hoztam létre, a main-nben nincs benne.
